@@ -1,6 +1,6 @@
 # Course Management
 
-<h1 align="center"> Projeto Final APC </h1>
+<h1> Projeto Final APC </h1>
 
 Desenvolvedor: Arthur Parente.
 
